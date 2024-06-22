@@ -1,4 +1,4 @@
-Full Stack Developer | MERN
+Frontend Developer | React.js
 ==============================================================================================================================
 
 Welcome to my GitHub! Here, you'll find a collection of projects that showcase my journey into the world of full-stack development. I'm currently honing my skills in both front-end and back-end technologies, and I'm excited to share my progress with you.

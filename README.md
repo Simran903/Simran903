@@ -4,7 +4,7 @@ Frontend Developer | React.js
 Welcome to my GitHub! Here, you'll find a collection of projects that showcase my journey into the world of full-stack development. I'm currently honing my skills in both front-end and back-end technologies, and I'm excited to share my progress with you.
 
 * 🌍  I'm based in New Delhi, India
-* ✉️  You can contact me at [simran903@gmail.com](mailto:simran903@gmail.com)
+* ✉️  You can contact me at [itssimran903@gmail.com](mailto:itssimran903@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
 ### 💻 Tech Stack:
